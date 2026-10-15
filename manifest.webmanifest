@@ -1,0 +1,15 @@
+{
+  "name": "Tonys Mathe-Markt",
+  "short_name": "Mathe-Markt",
+  "description": "Adaptives Mathematik-Lernspiel, kompakt für iPad",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7df",
+  "theme_color": "#2f8f4e",
+  "orientation": "any",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

@@ -1,0 +1,9 @@
+Mathe-Markt PWA – kompakte iPad-Version
+
+1. Alle Dateien inklusive Ordner "icons" gemeinsam auf einen HTTPS-Webspace hochladen.
+2. Auf dem iPhone oder iPad die Webadresse in Safari öffnen.
+3. Teilen -> Zum Home-Bildschirm -> Als Web-App öffnen -> Hinzufügen.
+4. Bei Updates alle geänderten Dateien ersetzen.
+
+Cache-Version: tonys-mathe-markt-v5-ohne-rechenweg
+Besonderheiten: kompakte iPad-Spielansicht; Rechenweg und Countdown vollständig entfernt.
